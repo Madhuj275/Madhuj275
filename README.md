@@ -18,7 +18,10 @@ Hi there! I'm a passionate developer with a keen interest in crafting innovative
 - **[Certify-DAPP](https://github.com/Madhuj275/Certify-DAPP):** A decentralized application for issuing and verifying certificates securely on the blockchain, ensuring transparency and tamper-proof documentation.  
 
 ## 🚀 Let's Connect:
-Explore my repositories and feel free to collaborate or discuss ideas. Together, we can innovate and make an impact!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhuj-agrawal-8491b328b/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/madhuj2705/)  [![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/madhujsays)  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:madhuj.2004@yahoo.com)
+
+
 
 
 
