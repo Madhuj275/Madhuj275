@@ -4,13 +4,10 @@
 
 <h3>Hi there!</h3>
 
-<h4>
-I am a results-driven professional with expertise in Python programming, data analysis, and backend web development. Proficient in libraries like Pandas, NumPy, and Matplotlib, I transform complex datasets into actionable insights and create compelling visualizations to inform decision-making.
-</h4>
+I am a results-driven professional with expertise in **Python programming, data analysis, and backend web development**. Proficient in libraries like Pandas, NumPy, and Matplotlib, I transform complex datasets into actionable insights and create compelling visualizations to inform decision-making.
 
-<h4>
-I also have experience in Machine Learning, utilizing tools like Scikit-learn and TensorFlow for building predictive models and solving real-world problems. My web development background includes creating scalable backend systems and APIs that power dynamic applications.
-</h4>
+I also have experience in **Machine Learning**, utilizing tools like Scikit-learn and TensorFlow for building predictive models and solving real-world problems. My **Web development** background includes creating scalable backend systems and APIs that power dynamic applications.
+
 
 
 # 🔧 Tech Stack & Skills:
