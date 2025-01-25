@@ -25,8 +25,13 @@ Hi there! I'm a passionate developer with a keen interest in crafting innovative
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhuj-agrawal-8491b328b/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/madhuj2705/)  [![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/madhujsays)  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:madhuj.2004@yahoo.com)
 
+## 🚀 My Stats:
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Madhuj275&show_icons=true&theme=radical)
 
+## Preferred Languages:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhuj275&layout=compact)
 
 
 
