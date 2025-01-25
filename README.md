@@ -2,15 +2,23 @@
 
 # 👋 About Me
 
-Hi there! 
+<h3>Hi there!</h3>
 
-I am a results-driven professional with expertise in Python programming, data analysis, and backend web development. Proficient in libraries like Pandas, NumPy, and Matplotlib, I transform complex datasets into actionable insights and create compelling visualizations to inform decision-making.  
+<p style="font-size:18px;">
+I am a results-driven professional with expertise in Python programming, data analysis, and backend web development. Proficient in libraries like Pandas, NumPy, and Matplotlib, I transform complex datasets into actionable insights and create compelling visualizations to inform decision-making.
+</p>
 
-I also have experience in Machine Learning, utilizing tools like Scikit-learn and TensorFlow for building predictive models and solving real-world problems. My web development background includes creating scalable backend systems and APIs that power dynamic applications.  
+<p style="font-size:18px;">
+I also have experience in Machine Learning, utilizing tools like Scikit-learn and TensorFlow for building predictive models and solving real-world problems. My web development background includes creating scalable backend systems and APIs that power dynamic applications.
+</p>
 
-With strong public speaking and communication skills, I excel at presenting complex concepts in accessible ways through workshops, presentations, and discussions. I thrive in collaborative, innovation-driven environments and am always eager to learn and contribute to impactful projects.  
+<p style="font-size:18px;">
+With strong public speaking and communication skills, I excel at presenting complex concepts in accessible ways through workshops, presentations, and discussions. I thrive in collaborative, innovation-driven environments and am always eager to learn and contribute to impactful projects.
+</p>
+
 
 # 🔧 Tech Stack & Skills:
+
 - **Programming Languages:** [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -21,6 +29,7 @@ With strong public speaking and communication skills, I excel at presenting comp
 - **Frameworks & Libraries:** [![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)   
 - **Tools & Platforms:** [![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat&logo=ethereum&logoColor=white)](https://ethereum.org/) [![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)](https://ethereum.org)
+
 
 # 🌟 Featured Projects:
 - **[Air Compute](https://github.com/Madhuj275/Air-Compute):** A gesture-based AI system that uses webcam input for hand gesture detection, enabling real-time problem-solving and AI-driven solutions. Integrated with Google's Gemini model, it allows users to interact with a dynamic canvas for drawing and solving mathematical problems using hand movements.
