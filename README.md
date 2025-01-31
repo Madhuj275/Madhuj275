@@ -27,7 +27,17 @@ I also have experience in **Machine Learning**, utilizing tools like Scikit-lear
 # 🌟 Featured Projects:
 - **[Air Compute](https://github.com/Madhuj275/Air-Compute):** A gesture-based AI system that uses webcam input for hand gesture detection, enabling real-time problem-solving and AI-driven solutions. Integrated with Google's Gemini model, it allows users to interact with a dynamic canvas for drawing and solving mathematical problems using hand movements.
 -  **[Football League Analysis](https://github.com/Madhuj275/Football-league-analysis):** A comprehensive data-driven analysis of football leagues, clubs, and player transfers using visualizations like scatterplots, joint plots, and reg plots.
-- **[Certify-DAPP](https://github.com/Madhuj275/Certify-DAPP):** A decentralized application for issuing and verifying certificates securely on the blockchain, ensuring transparency and tamper-proof documentation.  
+- **[Certify-DAPP](https://github.com/Madhuj275/Certify-DAPP):** A decentralized application for issuing and verifying certificates securely on the blockchain, ensuring transparency and tamper-proof documentation.
+
+
+# 🏆 Trophies:
+
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Madhuj275" alt="Madhuj275" />
+  </a> 
+</p>
+
 
 # 🚀 Let's Connect:
 
