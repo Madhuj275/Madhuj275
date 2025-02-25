@@ -4,9 +4,9 @@
 
 <h3>Hi there!</h3>
 
-I am a results-driven professional with expertise in **Python programming, data analysis, and backend web development**. Proficient in libraries like Pandas, NumPy, and Matplotlib, I transform complex datasets into actionable insights and create compelling visualizations to inform decision-making.
+I am a **Full-Stack Developer** with expertise in both **Front-End and Back-End Development**. On the front-end, I work with **React.js, Next.js, and JavaScript**, focusing on building dynamic, responsive, and optimized user interfaces. On the back-end, I have experience with **Node.js, Express.js, Python (Django, Flask)**, where I develop scalable APIs, authentication systems, and database-driven applications. I work with **both SQL (PostgreSQL, MySQL) and NoSQL (MongoDB, Supabase)** for efficient data management.  
 
-I also have experience in **Machine Learning**, utilizing tools like Scikit-learn and TensorFlow for building predictive models and solving real-world problems. My **Web development** background includes creating scalable backend systems and APIs that power dynamic applications.
+I am also passionate about **Data Analytics and Machine Learning**, leveraging **Pandas, NumPy, Matplotlib, and Scikit-learn** to analyze data and build predictive models. My development workflow often includes **Git, Docker, and cloud deployments** to ensure scalability and efficiency. I enjoy solving complex problems, optimizing performance, and exploring new technologies to build robust and scalable solutions.  
 
 
 
@@ -25,9 +25,9 @@ I also have experience in **Machine Learning**, utilizing tools like Scikit-lear
 
 
 # 🌟 Featured Projects:
-- **[Air Compute](https://github.com/Madhuj275/Air-Compute):** A gesture-based AI system that uses webcam input for hand gesture detection, enabling real-time problem-solving and AI-driven solutions. Integrated with Google's Gemini model, it allows users to interact with a dynamic canvas for drawing and solving mathematical problems using hand movements.
--  **[Football League Analysis](https://github.com/Madhuj275/Football-league-analysis):** A comprehensive data-driven analysis of football leagues, clubs, and player transfers using visualizations like scatterplots, joint plots, and reg plots.
-- **[Certify-DAPP](https://github.com/Madhuj275/Certify-DAPP):** A decentralized application for issuing and verifying certificates securely on the blockchain, ensuring transparency and tamper-proof documentation.
+- 🖐️ **[Air Compute](https://github.com/Madhuj275/Air-Compute):** A gesture-based AI system that uses webcam input for hand gesture detection, enabling real-time problem-solving and AI-driven solutions. Integrated with Google's Gemini model, it allows users to interact with a dynamic canvas for drawing and solving mathematical problems using hand movements.
+- ⚽ **[Football League Analysis](https://github.com/Madhuj275/Football-league-analysis):** A comprehensive data-driven analysis of football leagues, clubs, and player transfers using visualizations like scatterplots, joint plots, and reg plots.
+- 🔗🛡️ **[Certify-DAPP](https://github.com/Madhuj275/Certify-DAPP):** A decentralized application for issuing and verifying certificates securely on the blockchain, ensuring transparency and tamper-proof documentation.
 
 
 # 🏆 Trophies:
