@@ -26,7 +26,7 @@ I am also passionate about **Data Analytics and Machine Learning**, leveraging *
 
 # 🌟 Featured Projects:
 - 🖐️ **[Air Compute](https://github.com/Madhuj275/Air-Compute):** A gesture-based AI system that uses webcam input for hand gesture detection, enabling real-time problem-solving and AI-driven solutions. Integrated with Google's Gemini model, it allows users to interact with a dynamic canvas for drawing and solving mathematical problems using hand movements.
-- ⚽ **[InvestyGram](https://github.com/Madhuj275/InvestyGram):** InvestyGram is an innovative platform that bridges the gap between startups and investors. It provides a structured and engaging environment where startups can present their ideas, attract potential investors, and secure funding through a live bidding system. Investors, on the other hand, can explore a curated selection of startups, assess their business potential, and make informed investment decisions.
+- 📈🤝💡 **[InvestyGram](https://github.com/Madhuj275/InvestyGram):** InvestyGram is an innovative platform that bridges the gap between startups and investors. It provides a structured and engaging environment where startups can present their ideas, attract potential investors, and secure funding through a live bidding system. Investors, on the other hand, can explore a curated selection of startups, assess their business potential, and make informed investment decisions.
 - 🔗🛡️ **[Certify-DAPP](https://github.com/Madhuj275/Certify-DAPP):** A decentralized application for issuing and verifying certificates securely on the blockchain, ensuring transparency and tamper-proof documentation.
 
 
