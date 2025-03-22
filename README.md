@@ -32,11 +32,7 @@ I am also passionate about **Data Analytics and Machine Learning**, leveraging *
 
 # 🏆 Trophies:
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Madhuj275" alt="Madhuj275" />
-  </a> 
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 # 🚀 Let's Connect:
