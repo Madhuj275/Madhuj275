@@ -9,7 +9,7 @@ I am a **Full-Stack Developer** with expertise in both **Front-End and Back-End 
 I am also passionate about **Data Analytics and Machine Learning**, leveraging **Pandas, NumPy, Matplotlib, and Scikit-learn** to analyze data and build predictive models. My development workflow often includes **Git, Docker, and cloud deployments** to ensure scalability and efficiency. I enjoy solving complex problems, optimizing performance, and exploring new technologies to build robust and scalable solutions.  
 
 
-
+[![](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
 
 
 # 🔧 Tech Stack & Skills:
