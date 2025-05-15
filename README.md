@@ -74,7 +74,7 @@ I am also passionate about **Data Analytics and Machine Learning**, leveraging *
 
 # 🌐 Let's Connect:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhuj-agrawal-8491b328b/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/madhuj2705/)  [![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/madhujsays)  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:madhuj.2004@yahoo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhuj-agrawal-8491b328b/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/madhuj2705/)  [![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/madhujsays)  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:madhuj.2004@yahoo.com)[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=Firefox&logoColor=white)](https://madhujagr-portfolio.vercel.app/)
 
 
 
