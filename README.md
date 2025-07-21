@@ -1,7 +1,7 @@
 
 
 # 👋 About Me
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Madhuj275&label=Profile%20views&color=0e75b6&style=flat" alt="Madhuj275" /> </p>
 <h3>Hi there!</h3>
 
 I am a **Full-Stack Developer** with expertise in both **Front-End and Back-End Development**. On the front-end, I work with **React.js, Next.js, and JavaScript**, focusing on building dynamic, responsive, and optimized user interfaces. On the back-end, I have experience with **Node.js, Express.js, Python (Django, Flask)**, where I develop scalable APIs, authentication systems, and database-driven applications. I work with **both SQL (PostgreSQL, MySQL) and NoSQL (MongoDB, Supabase)** for efficient data management.  
